@@ -3,7 +3,7 @@ description: The type of device you were playing on
 labels: ["bug"]
 
 body:
-  - type: dropdown
+  - type: dropdowkk
     id: platform
     attributes:
       label: Platforms
